@@ -1,0 +1,19 @@
+version: '3.4'
+
+# Traefik is our exposed network
+#networks:
+#  traefik:
+#    external: true
+
+services:
+#  traefik:
+#    image: traefik
+#    command: --api --docker --docker.exposedbydefault=false
+#    ports:
+#      - "80:80"
+#      - "443:443"
+#      - "8080:8080"
+#    volumes:
+#      - /var/run/docker.sock:/var/run/docker.sock
+#    networks:
+#      - traefik

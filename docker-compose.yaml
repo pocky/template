@@ -1,0 +1,7 @@
+version: '3.4'
+
+networks:
+  # backend is our internal network
+  backend: ~
+
+services: ~
