@@ -9,5 +9,6 @@ Is it possible to contact us by:
 
 - [mail](mailto:contact@project.com)
 - [slack](http://project.slack.com)
+- ...
 
 But remember, we are humans and it is open source so if you want a quick fix, answer... Just hire us.
